@@ -1,7 +1,6 @@
 - 👋 Hi, I’m ARGHYA SAHA
 - 👀 I’m interested in MACHINE LEARNING AND ARTIFICIAL INTELLIGENCE
-- 🌱 I’m currently learning NEURAL NETWORKS
-- 💞️ I’m looking to collaborate on any ML projects
+-   Interested in Software Engineering too
 - 📫 How to reach me: arghya.saha.23@gmail.com
 
 <!---
